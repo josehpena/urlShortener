@@ -1,4 +1,3 @@
-const axios = require('axios');
 const UrlS = require('../models/urlShort');
 
 module.exports = {
